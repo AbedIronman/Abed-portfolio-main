@@ -1,0 +1,160 @@
+{
+    "basic_info": {
+      "description_header": "Hello 👋",
+      "description": "I'm Abed. I am much influenced by Artificial Intelligence and Automation. I specialize in microcontroller programming, and have knowledge in website development and mobile applications design. I developed numerous Microcontroller applications using different Microcontroller boards such as Arduino Uno R3, Arduino Nano, Teensy 4.0, Arduino Pro Mini 328, MSP-EXP430FR4133, STM32F103C8T6 Blue Pill and Curiosity Nano.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Quadcopter Drone",
+        "startDate": "2022",
+        "description": "An Arduino Nano unmanned aerial vehicle with four rotors spinning clockwise, each with a servo motor and propeller. A photoresistor was also needed so that the drone operates during daylight only. This quadcopter drone can be remotely controlled by an android application.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpeg",
+          "images/portfolio/animal-shelter/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "COVID-19 Smart Hat",
+        "startDate": "2022",
+        "description": "During the COVID-19 pandemic, I was committed to staying safe and helping others in any way I could. I realized that I could make a significant impact by ensuring that everyone followed the COVID-19 safety regulations. To accomplish this, I decided to leverage my expertise in microcontrollers and create something innovative. That's how I came up with Extremis 1.0 - a smart hat that alerts the user if they have a fever, reminds them to stay at least 6ft apart from others, and even prevents them from touching their face. With Extremis 1.0, I'm able to help keep myself and those around me safe during these uncertain times.",
+        "images": [
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
+        ],
+        "url": "https://www.youtube.com/watch?v=nrFZPWwBqxg&list=PLPvGnCKMMR98XkzKz6couXCZdY5xtsdB4",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Real-Time Chat App",
+        "startDate": "2023",
+        "description": "Arena is a real-time chat application. It offers a range of functionalities such as allowing users to create an account, set up an encrypted strong password, log in to their accounts, and communicate with other Arena users. Additionally, it has some exciting features, such as moving particles that can be enabled or disabled. Users can also change their name and profile picture. Arena enables users to create group chats and send messages to all the members of the group. They can edit group names and profile pictures as well. Finally, whenever a user receives a message, Arena sends a notification to alert them.",
+        "images": [
+          "images/portfolio/adventure/p8.png",
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png",
+          "images/portfolio/adventure/p3.png",
+          "images/portfolio/adventure/p4.png",
+          "images/portfolio/adventure/p5.png",
+          "images/portfolio/adventure/p6.png",
+          "images/portfolio/adventure/p7.png"
+        ],
+        "url": "http://temp-arena-chat.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },         
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+        
+          {
+            "class": "devicon-socketio-plain",
+            "name": "Socket.IO"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ontario Lottery and Gaming Corporation",
+        "title": "Junior Software Developer",
+        "years": "05.2022 - present",
+        "mainTech": [
+          "DevOps"
+        ],
+        "technologies": [
+          "React",
+          "Agile Development",
+          "Kubernetes",
+          "Docker",
+          "AWS",
+          "Jira",
+          "ArgoCD",
+          "Apache Tomcat",
+          "Python",
+          "Git"
+        ]
+      },
+      {
+        "company": "CompuSmart Systems",
+        "title": "IT Support Technician",
+        "years": "02.2021 - 05.2022",
+        "mainTech": [
+          "Remote Desktop Connection"
+        ],
+        "technologies": [
+          "TeamViewer",
+          "Microsoft Teams",
+          "Zendesk Ticketing",
+          "Active Directory",
+          "AvericsUnity",
+          "Microsoft Visio",
+          "Wireshark",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "PHP"
+        ]
+      },
+      {
+        "company": "Algoma University",
+        "title": "IT Specialist & Research Assistant",
+        "years": "06.2021 - 01.2022",
+        "mainTech": [
+          "Microsoft SQL Server"
+        ],
+        "technologies": [         
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Java",
+          "Bootstrap 4",
+          "Acronics Cyber Protect"
+        ]
+      }
+    ]
+  }

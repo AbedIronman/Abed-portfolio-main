@@ -1,0 +1,160 @@
+{
+    "basic_info": {
+      "description_header": "Salut 👋 ",
+      "description": "Je m'appelle Abed. Je suis fortement influencé par l'Intelligence Artificielle et l'Automatisation. Je suis spécialisé dans la programmation de microcontrôleurs et j'ai des connaissances en développement de sites web et en conception d'applications mobiles. J'ai développé de nombreuses applications de microcontrôleurs en utilisant différents modèles de cartes de microcontrôleurs tels que l'Arduino Uno R3, l'Arduino Nano, le Teensy 4.0, l'Arduino Pro Mini 328, le MSP-EXP430FR4133, le STM32F103C8T6 Blue Pill et le Curiosity Nano.",
+      "section_name": {
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience professionnelle"
+      }
+    },
+    "projects": [
+      {
+        "title": "Drone quadricoptère",
+        "startDate": "2022",
+        "description": "Un véhicule aérien sans pilote Arduino Nano avec quatre rotors tournant dans le sens des aiguilles d'une montre, chacun équipé d'un moteur de servomoteur et d'une hélice. Un photo-résistance est également nécessaire pour que le drone ne fonctionne que pendant la journée. Ce drone quadricoptère peut être contrôlé à distance par une application Android.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpeg",
+          "images/portfolio/animal-shelter/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Chapeau intelligent COVID-19",
+        "startDate": "2022",
+        "description": "Pendant la pandémie de COVID-19, j'étais déterminé à rester en sécurité et à aider les autres de toutes les manières possibles. J'ai réalisé que je pourrais avoir un impact significatif en veillant à ce que tout le monde respecte les réglementations de sécurité liées au COVID-19. Pour cela, j'ai décidé de tirer parti de mon expertise en microcontrôleurs et de créer quelque chose d'innovant. C'est ainsi que j'ai créé Extremis 1.0 - un chapeau intelligent qui alerte l'utilisateur s'il a de la fièvre, le rappelle de maintenir une distance d'au moins 6 pieds des autres et même l'empêche de toucher son visage. Avec Extremis 1.0, je peux aider à maintenir ma sécurité et celle des personnes autour de moi pendant ces temps incertains.",
+        "images": [
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
+        ],
+        "url": "https://www.youtube.com/watch?v=nrFZPWwBqxg&list=PLPvGnCKMMR98XkzKz6couXCZdY5xtsdB4",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Application de Chat",
+        "startDate": "2023",
+        "description": "Arena est une application de chat en temps réel. Il offre une gamme de fonctionnalités telles que permettre aux utilisateurs de créer un compte, de configurer un mot de passe fort chiffré, de se connecter à leur compte et de communiquer avec d'autres utilisateurs d'Arena. De plus, il possède des fonctionnalités intéressantes, telles que des particules en mouvement qui peuvent être activées ou désactivées. Les utilisateurs peuvent également changer leur nom et leur photo de profil. Arena permet aux utilisateurs de créer des discussions de groupe et d'envoyer des messages à tous les membres du groupe. Ils peuvent également modifier les noms de groupe et les photos de profil. Enfin, chaque fois qu'un utilisateur reçoit un message, Arena envoie une notification pour les alerter.",
+        "images": [
+          "images/portfolio/adventure/p8.png",
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png",
+          "images/portfolio/adventure/p3.png",
+          "images/portfolio/adventure/p4.png",
+          "images/portfolio/adventure/p5.png",
+          "images/portfolio/adventure/p6.png",
+          "images/portfolio/adventure/p7.png"
+        ],
+        "url": "http://temp-arena-chat.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },         
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+        
+          {
+            "class": "devicon-socketio-plain",
+            "name": "Socket.IO"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ontario Lottery and Gaming Corporation",
+        "title": "Junior Développeur de Logiciels",
+        "years": "05.2022 - present",
+        "mainTech": [
+          "DevOps"
+        ],
+        "technologies": [
+          "React",
+          "Agile Development",
+          "Kubernetes",
+          "Docker",
+          "AWS",
+          "Jira",
+          "ArgoCD",
+          "Apache Tomcat",
+          "Python",
+          "Git"
+        ]
+      },
+      {
+        "company": "CompuSmart Systems",
+        "title": "Technicien de Support Informatique",
+        "years": "02.2021 - 05.2022",
+        "mainTech": [
+          "Remote Desktop Connection"
+        ],
+        "technologies": [
+          "TeamViewer",
+          "Microsoft Teams",
+          "Zendesk Ticketing",
+          "Active Directory",
+          "AvericsUnity",
+          "Microsoft Visio",
+          "Wireshark",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "PHP"
+        ]
+      },
+      {
+        "company": "Algoma University",
+        "title": "IT Specialist & Research Assistant",
+        "years": "06.2021 - 01.2022",
+        "mainTech": [
+          "Microsoft SQL Server"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Java",
+          "Bootstrap 4",
+          "Acronics Cyber Protect"
+        ]
+      }
+    ]
+  }
