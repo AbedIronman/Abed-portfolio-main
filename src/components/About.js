@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/java";
-import reactIcon from "@iconify/icons-logos/react";
+//import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/arduino";
 
 class About extends Component {
