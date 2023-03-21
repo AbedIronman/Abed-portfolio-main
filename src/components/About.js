@@ -34,10 +34,12 @@ class About extends Component {
                     icon={vueIcon}
                     style={{ fontSize: "350%", margin: "9% 5% 0 5%" }}
                   />
-                  <Icon
+                  {/*  
+                   <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
+                  */}
                   <Icon
                     icon={angularIcon}
                     style={{ fontSize: "500%", margin: "9% 5% 5% 5%" }}
